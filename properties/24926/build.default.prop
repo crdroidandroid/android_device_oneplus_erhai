@@ -7,5 +7,8 @@ ro.product.odm.name=OPD2413
 ro.product.odm.model=OPD2413
 ro.vendor.oplus.regionmark=CN
 
+# Device name
+ro.product.marketname=OnePlus Pad 2 Pro
+
 # USB
 vendor.usb.product_string=OnePlus Pad 2 Pro
