@@ -39,4 +39,10 @@
          rotations as the default behavior. -->
     <bool name="config_allowAllRotations">true</bool>
 
+    <!-- Enable refresh rate controls in Settings > Display -->
+    <bool name="config_showRefreshRateControls">true</bool>
+
+    <!-- Set default/minimum refresh rate for battery saving -->
+    <integer name="config_defaultRefreshRate">60</integer>
+     
 </resources>
